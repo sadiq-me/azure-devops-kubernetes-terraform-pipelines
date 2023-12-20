@@ -1,0 +1,4 @@
+1. git init
+
+result :Initialized empty Git repository in C:/Users/sadiq/DataEngineering/github_rangakarnam/azure-devops-kubernetes-terraform-pipelines/.git/
+2. 
